@@ -367,7 +367,7 @@ def main():
     times = [0.0, 0.25, 0.5, 0.75, 1.0]
 
     print(f"\n   Local Volatility Matrix:")
-    print(f"   {'Time\Price':<12} ", end="")
+    print(f"   {'Time/Price':<12} ", end="")
     for price in prices:
         print(f"{price:<8}", end="")
     print()
