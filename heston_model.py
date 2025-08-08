@@ -1,7 +1,7 @@
 
 """
 Heston Stochastic Volatility Model Implementation
-Author: AI Assistant
+Author: Arnav Sharma
 Date: 2025
 
 This implementation provides the Heston model for option pricing with stochastic volatility.
