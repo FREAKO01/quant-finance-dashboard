@@ -1,7 +1,7 @@
 
 """
 Monte Carlo Simulation for Option Pricing
-Author: AI Assistant
+Author: Arnav Sharma
 Date: 2025
 
 This implementation provides Monte Carlo methods for pricing various types of options,
