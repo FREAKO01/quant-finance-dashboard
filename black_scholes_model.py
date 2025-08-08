@@ -1,6 +1,6 @@
 """
 Black-Scholes Option Pricing Model Implementation
-Author: AI Assistant
+Author: Arnav sharma
 Date: 2025
 
 This implementation provides a complete Black-Scholes model with Greeks calculations.
